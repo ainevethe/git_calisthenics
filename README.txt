@@ -2,5 +2,5 @@
 
 "Knock, Knock"
 "Who's There?"
-"Git.""
+Git.
 "Git Who?"
